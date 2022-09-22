@@ -1,1 +1,1 @@
-# Easy_Algorithm_1-2
+백준 초급문제
